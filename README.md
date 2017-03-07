@@ -4,15 +4,13 @@
 
 在gradle(project)中添加：
 
-allprojects {
-
-    repositories {
+    allprojects {
+        repositories {
     
-        jcenter()
-        maven { url 'https://jitpack.io' }
+         jcenter()
+         maven { url 'https://jitpack.io' }
+        }
     }
-    
-}
 
 在gradele(app)中添加：
 
