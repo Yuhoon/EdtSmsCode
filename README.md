@@ -30,6 +30,9 @@
         
 #控件属性：
 app:item_size="40dp"  每个Edittext的长宽，默认值40
+
 app:max_len="6"  Edittext个数，默认为6
+
 app:text_size="16dp"  文字大小，默认为16
+
 app:text_color="@color/colorPrimary"  文字颜色，默认为#333333 黑
