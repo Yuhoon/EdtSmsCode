@@ -3,14 +3,19 @@
 #添加关联库：
 
 在gradle(project)中添加：
+
 allprojects {
+
     repositories {
+    
         jcenter()
         maven { url 'https://jitpack.io' }
     }
+    
 }
 
 在gradele(app)中添加：
+
     compile 'com.github.Yuhoon:EdtSmsCode:v0.12'
 
 #xml：
