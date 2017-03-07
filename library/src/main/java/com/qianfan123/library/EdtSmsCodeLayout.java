@@ -1,4 +1,4 @@
-package com.wcong.edtsmscode;
+package com.qianfan123.library;
 
 import android.content.Context;
 import android.content.res.TypedArray;
