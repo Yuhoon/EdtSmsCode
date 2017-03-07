@@ -37,4 +37,5 @@ app:text_size="16dp"  文字大小，默认为16
 
 app:text_color="@color/colorPrimary"  文字颜色，默认为#333333 黑
 
-http://img.blog.csdn.net/20170307153009429
+效果如下：
+![image](http://img.blog.csdn.net/20170307153009429)
